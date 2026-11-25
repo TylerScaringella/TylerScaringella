@@ -5,6 +5,7 @@
 📫 Check out my website: [tylerscaringella.com](https://www.tylerscaringella.com)!
 
 # Work Experience ⚡
+- Forward Deployed Software Engineering Intern @ Palantir
 - Software Engineering Intern @ LinkedIn
 - Software Engineering Intern @ Lazarus AI
 
